@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Mobile Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gprs1022&label=Profile%20views&color=0e75b6&style=flat" alt="gprs1022" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gprspradeep" target="blank"><img src="https://img.shields.io/twitter/follow/gprspradeep?logo=twitter&style=for-the-badge" alt="gprspradeep" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Android Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📫 How to reach me **pradeep1022gprs@gmail.com**
 
