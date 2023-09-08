@@ -1,6 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
 <h3 align="center">A passionate Mobile Developer from India</h3>
-
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gprs1022&label=Profile%20views&color=0e75b6&style=flat" alt="gprs1022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gprs1022" alt="gprs1022" /></a> </p>
